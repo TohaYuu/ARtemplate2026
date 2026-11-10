@@ -1,0 +1,11 @@
+Model Information:
+* title:	Goku+character+3d+model
+* source:	https://sketchfab.com/3d-models/gokucharacter3dmodel-5c47727ff7aa4b0ab8e416fa6468bfd1
+* author:	3D MORE (https://sketchfab.com/abdulrehmansoomro648)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Goku+character+3d+model" (https://sketchfab.com/3d-models/gokucharacter3dmodel-5c47727ff7aa4b0ab8e416fa6468bfd1) by 3D MORE (https://sketchfab.com/abdulrehmansoomro648) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
